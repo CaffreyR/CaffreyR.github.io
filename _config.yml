@@ -105,7 +105,8 @@ friends: [
     {
          title: "Lirong Yao",
          href: "yao-lirong.github.io"
-     },{
+     },
+#  {
 #        title: "乱序（Midare）",
 #        href: "http://mida.re/"
 #    },{
