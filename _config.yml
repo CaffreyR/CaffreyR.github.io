@@ -106,10 +106,11 @@ friends: [
          title: "Lirong Yao",
          href: "http://yao-lirong.github.io"
      },
-#  {
-#        title: "乱序（Midare）",
-#        href: "http://mida.re/"
-#    },{
+  {
+        title: "Gilgamesh",
+        href: "http://lzqlearn.com/"
+    },
+  {
 #        title: "Sherry Woo",
 #        href: "https://sherrywoo.me/"
 #    },{
