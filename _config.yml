@@ -84,7 +84,7 @@ sidebar-avatar: https://raw.githubusercontent.com/CaffreyR/CaffreyR.github.io/ma
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                    # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
