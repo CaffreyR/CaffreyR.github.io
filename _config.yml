@@ -110,7 +110,7 @@ friends: [
         title: "Gilgamesh",
         href: "http://lzqlearn.com/"
     },
-  {
+#  {
 #        title: "Sherry Woo",
 #        href: "https://sherrywoo.me/"
 #    },{
