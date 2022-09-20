@@ -36,6 +36,3 @@ Deep Learning in Multimodal and NLP
 - Multimodal in image caption in TJU
 - RA of Parameter-efficient project with UW
 - RA of 3D project with IC
-
-
-- 
