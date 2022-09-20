@@ -32,5 +32,10 @@ Deep Learning in Multimodal and NLP
 - [x] January 2022
 
 ##### Research Experience
+- Human body reconstruction in TJU
+- Multimodal in image caption in TJU
+- RA of Parameter-efficient project with UW
+- RA of 3D project with IC
+
 
 - 
