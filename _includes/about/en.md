@@ -1,26 +1,34 @@
-大家好，我是王国润，同济大学电子与工程学院数据科学与大数据技术专业大三学生。
+I'm Guorun, a junior student of Data Science and Big Data technology in the Computer Science department, Tongji University.
 
 
 
-##### 研究兴趣
+##### Research interest
 
-深度学习，多模态，自然语言处理
+Multimodal, NLP, 3d reconstruction and understanding
 
-##### 专业经历
+##### Research Experience
+
+- Research assistant in Cognitive and Intelligent Computing Lab, Tongji University, working on Multimodal in image caption, 2d classification, medical multimodal classification with Professor Yaoru Sun.
+- Research assistant in H2lab, University of Washington, working on Parameter-efficient NLP with Dr. Qingqing Cao(Postdoc).
+- Research intern in context.ai with faculties of Imperial College,  working on 3d NerFs and understanding with Lucia Specia and Viktoriia Sharmanska.
+- Robustness of human body reconstruction and segmentation method in Tongji University, working with Professor Kuo-yi Lin.
+
+
+
+##### Professional experience
 
  **Applying Machine Learning to Engineering and Science - Professional Certificate Program offered by MITxPRO**
 
 - [x] June 2021-August 2021
 
-- 基本的机器学习原理
-- 编程与数据科学应用
+- Foundational Machine Learning concepts
+- Programming and application of Data Science
 
-##### 并行与分布式系统架构技术助理
+Teaching Assistant of  Parallel and Distributed System Architecture Technology offered by Tongji University
 
 - [x] September 2021-January 2022
-
-- 搭建linux云服务器用于CUDA加速代码测试
-- 根据学生学号设置专属账号远程登陆
+- Building a Linux cloud server for CUDA accelerated source code testing
+- Assigning an exclusive account to each user according to his/her ID
 - Testing homework of BMP image convolution using MPI, Pthread, OpenMP, CUDA
 
 **Bug reporter -- For the verification code vulnerability of Tongji Educational Administration System**
@@ -31,10 +39,56 @@
 
 - [x] January 2022
 
-##### Research Experience
+##### Publication and Projects
 
-- Human body reconstruction in TJU
-- Multimodal in image caption in TJU
-- RA of Parameter-efficient project with UW
-- RA of 3D project with IC
+Paper Entering Publication Schedule: 
+
+U2 Net-Plus and background removal based PIFu-HD : Human Body Reconstruction in Complex Background (Int. J. of Internet Manufacturing and Services)
+
+DOI: 10.1504/IJIMS.2022.10050483 
+
+
+
+Paper under review
+
+• Co-first author                                                         
+
+• Multimodal is involved about image caption.
+
+
+
+
+
+Project: Intelligent Dance Evaluation and Teaching Mode based on Pose Estimation                                                                                                                             
+Tutor: Kuo-yi Lin
+
+• Team member  
+
+• Have won many awards
+• Computer Vision and OpenPose
+• Deployed on a large server in Pudong, Shanghai
+
+
+
+Project: Driving status recognition
+Team leader                                                                                                                                    May 2021 - Until Now
+Tutor: Kuo-yi Lin
+• Corporating with Baidu
+• Computer Vision and Face recognition
+• Deployed on a server in Paddle
+
+
+
+Project: Financial statement identification
+Team member                                                                                                                           January 2022 - Until Now
+• Translation of original image to Json file
+• Computer Vision
+
+SKILLS
+• Language Ability: Toefl 93,
+• Programming Languages: Proficient in Python, C++,
+•Software Tools: Proficient in MySQL, MongoDB, Hbase, Bash and GIS.
+•Deep Learning Framework: Proficient in Tensorflow, Keras, Pytorch.
+
+
 
