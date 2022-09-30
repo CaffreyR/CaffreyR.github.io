@@ -41,7 +41,7 @@ Teaching Assistant of  Parallel and Distributed System Architecture Technology o
 
 ##### Publication and Projects
 
-Paper Entering Publication Schedule: 
+**Paper Entering Publication Schedule:** 
 
 U2 Net-Plus and background removal based PIFu-HD : Human Body Reconstruction in Complex Background (Int. J. of Internet Manufacturing and Services)
 
@@ -49,46 +49,45 @@ DOI: 10.1504/IJIMS.2022.10050483
 
 
 
-Paper under review
+**Paper under review**
 
-• Co-first author                                                         
-
-• Multimodal is involved about image caption.
-
+- Co-first author                                                         
+- Multimodal is involved about image caption.
 
 
 
+**Project: Intelligent Dance Evaluation and Teaching Mode based on Pose Estimation**                                                                                                                             
 
-Project: Intelligent Dance Evaluation and Teaching Mode based on Pose Estimation                                                                                                                             
-Tutor: Kuo-yi Lin
-
-• Team member  
-
-• Have won many awards
-• Computer Vision and OpenPose
-• Deployed on a large server in Pudong, Shanghai
+- Team member  
+- Have won many awards
+- Computer Vision and OpenPose
+- Deployed on a large server in Pudong, Shanghai
 
 
 
-Project: Driving status recognition
-Team leader                                                                                                                                    May 2021 - Until Now
-Tutor: Kuo-yi Lin
-• Corporating with Baidu
-• Computer Vision and Face recognition
-• Deployed on a server in Paddle
+**Project: Driving status recognition**
+
+- Team leader
+- Corporating with Baidu
+- Computer Vision and Face recognition
+- Deployed on a server in Paddle
 
 
 
-Project: Financial statement identification
-Team member                                                                                                                           January 2022 - Until Now
-• Translation of original image to Json file
-• Computer Vision
+**Project: Financial statement identification**
 
-SKILLS
-• Language Ability: Toefl 93,
-• Programming Languages: Proficient in Python, C++,
-•Software Tools: Proficient in MySQL, MongoDB, Hbase, Bash and GIS.
-•Deep Learning Framework: Proficient in Tensorflow, Keras, Pytorch.
+- Team member    
+- Translation of original image to Json file
+- Computer Vision
+
+
+
+##### Skills
+
+- Language Ability: Toefl 93,
+- Programming Languages: Proficient in Python, C++,
+- Software Tools: Proficient in MySQL, MongoDB, Hbase, Bash and GIS.
+- Deep Learning Framework: Proficient in Tensorflow, Keras, Pytorch.
 
 
 
