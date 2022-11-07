@@ -8,8 +8,8 @@ Multimodal, NLP, 3d reconstruction and understanding
 
 ##### Research Experience
 
+- Research assistant in [H2lab](https://h2lab.cs.washington.edu/), University of Washington, working on Parameter-efficient NLP with [Dr. Qingqing Cao(Postdoc)](https://awk.ai/) and Professor [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/index.html).
 - Research assistant in Cognitive and Intelligent Computing Lab, Tongji University, working on Multimodal in image caption, 2d classification, medical multimodal classification with Professor [Yaoru Sun](https://see.tongji.edu.cn/info/1285/9804.htm).
-- Research assistant in [H2lab](https://h2lab.cs.washington.edu/), University of Washington, working on Parameter-efficient NLP with [Dr. Qingqing Cao(Postdoc)](https://awk.ai/).
 - Research intern in [contex.ai](https://www.contex.ai/) with faculties of Imperial College,  working on 3d NerFs and understanding with Professor [Lucia Specia](https://lama.doc.ic.ac.uk/team/lucia) and Dr. [Viktoriia Sharmanska](https://www.imperial.ac.uk/people/sharmanska.v).
 - Robustness of human body reconstruction and segmentation method in Tongji University, working with Professor [Kuo-yi Lin](https://scholar.google.com.tw/citations?user=a3Kzy2wAAAAJ&hl=zh-TW).
 
@@ -49,12 +49,12 @@ DOI: 10.1504/IJIMS.2022.10050483
 
 
 
-**Paper under review**
+**Papers under review**
 
-- Co-first author                                                         
-- Multimodal is involved about image caption.
-
-
+1. Paper for ICNLP（Co-first author 、multimodal）
+2. Paper for WWW (Deepfake detection)
+3. Paper for AAAI (RGBD semantic segmentation)
+4. Paper about garbage classification task
 
 **Project: Intelligent Dance Evaluation and Teaching Mode based on Pose Estimation**                                                                                                                             
 
