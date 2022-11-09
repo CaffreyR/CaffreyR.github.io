@@ -47,14 +47,19 @@ U2 Net-Plus and background removal based PIFu-HD : Human Body Reconstruction in 
 
 DOI: 10.1504/IJIMS.2022.10050483 
 
+**Papers Acceptance**
+
+**What are You Posing: A gesture description dataset based on coarse-grained semantics** —— ICNLP
+
+（Co-first author 、multimodal）
+
 
 
 **Papers under review**
 
-1. Paper for ICNLP（Co-first author 、multimodal）
-2. Paper for WWW (Deepfake detection)
-3. Paper for AAAI (RGBD semantic segmentation)
-4. Paper about garbage classification task
+1. Paper for WWW (Deepfake detection)
+2. Paper for AAAI (RGBD semantic segmentation)
+3. Paper about garbage classification task
 
 **Project: Intelligent Dance Evaluation and Teaching Mode based on Pose Estimation**                                                                                                                             
 
